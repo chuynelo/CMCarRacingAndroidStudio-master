@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/exploded-aar/CMCarRacingAndroidStudio-master/andEngineTexturePackerExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b7da91c545e4229249b1956f7184d1c4575b57a1">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/classes-b994a81c75c794bdb581657c73e50aa44f3321aa.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/exploded-aar/CMCarRacingAndroidStudio-master/andEnginePhysicsBox2DExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a399639cbf42faa906199f42a41db44a966ead34">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/classes-8acf6394fc6d7c9b926ae5385ed6bf0207ae974a.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/exploded-aar/CMCarRacingAndroidStudio-master/andEngineMultiplayerExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10f4b052aa3a1c4bc0a8a4fc4efae7a413b93aa5">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/classes-29a15b9fb9ef4b8c5a67c33dc77626bfae3b83c8.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/exploded-aar/CMCarRacingAndroidStudio-master/andEngine/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77d8521155814d264d7704b527b4a7e62dd75193">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/classes-d129abbf2a320230921a01e96dcb329f5aab59b4.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/support-v4-19.1.0-52598717c155d80857acedae42fa4779d6afb2f5.jar" />
+    </item>
+
+</items>
